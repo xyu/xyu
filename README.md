@@ -12,8 +12,8 @@ Most of that code lives in private repositories, so what's public here is mostly
 **Open source:**
 - [heroku-wp](https://github.com/xyu/heroku-wp): WordPress on Heroku.
 - [elasticsearch-whatson](https://github.com/xyu/elasticsearch-whatson): an Elasticsearch cluster visualizer.
-- [php-thrift-sql](https://github.com/Automattic/php-thrift-sql): a PHP client for Hive and Impala.
 - [pystorm](https://github.com/Automattic/pystorm): Python multi-lang support for Apache Storm.
+- [php-thrift-sql](https://github.com/Automattic/php-thrift-sql): a PHP client for Hive and Impala.
 - Occasional patches to Apache Bigtop, Knox and Airflow.
 
 **Elsewhere:** [talks](https://speakerdeck.com/xyu) · [blog](https://xyu.io) · [LinkedIn](https://www.linkedin.com/in/xiao-yu/)
